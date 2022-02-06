@@ -1,4 +1,4 @@
-import Header from './components/Header'
+import Headerr from './components/Header'
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="container">
-      <Header title='Hello' />
+      <Headerr title='Hellor' />
     </div>
   );
 }
